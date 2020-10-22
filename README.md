@@ -4,7 +4,7 @@ UoA； INFOSYS 722
 # Version
 statsmodels == 0.11.1  
 pyecharts == 1.7.1  
-pyecharts website:https://pyecharts.org/#/en-us/  
+pyecharts website: https://pyecharts.org/#/en-us/  
 
 # StudentID: 
 mjia487
