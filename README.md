@@ -1,6 +1,8 @@
 # BDAS
-UoA； INFOSYS 722
-version
+UoA； INFOSYS 722  
+
+# version
 statsmodels-0.11.1  
 
-# studentID: mjia487
+# studentID: 
+mjia487
