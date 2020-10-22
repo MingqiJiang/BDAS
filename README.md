@@ -1,5 +1,6 @@
 # BDAS
 UoA； INFOSYS 722  
+BDAS_mjia487.ipynb is main part for this assignment. you can see all results from this file.
 
 # Version
 statsmodels == 0.11.1  
